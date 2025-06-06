@@ -1,0 +1,1 @@
+# codeclause-typing-speed-calculator
